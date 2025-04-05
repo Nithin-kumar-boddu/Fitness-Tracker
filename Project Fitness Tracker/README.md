@@ -27,8 +27,7 @@ The Personal Fitness Tracker allows users to input their personal metrics such a
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Nithin-kumar-boddu/Fitness-Tracker.git
     ```
 2.  **Create a virtual environment (recommended):**
     ```bash
